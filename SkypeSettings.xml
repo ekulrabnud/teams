@@ -1,0 +1,11 @@
+<SkypeSettings>
+    <Theming>
+        <ThemeName>Custom</ThemeName>
+        <CustomThemeImageUrl>wallpaper.jpg</CustomThemeImageUrl>
+        <CustomThemeColor>
+            <RedComponent>1</RedComponent>
+            <GreenComponent>120</GreenComponent>
+            <BlueComponent>199</BlueComponent>
+        </CustomThemeColor>
+    </Theming>
+</SkypeSettings>
